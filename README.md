@@ -1,6 +1,6 @@
 # EIP-session-1
 
-Result of Print(Score) = 0.9931
+Result of Print(Score) = 0.9919
 
 Definations for the following:
 
@@ -14,6 +14,8 @@ Definations for the following:
 
 5. 3x3 Convolution:&nbsp;&nbsp; Similar to above except with 3x3 dimention
 
-6. Feature Maps
-7. Activation Function
-8. Receptive Field
+6. Feature Maps:&nbsp;&nbsp; In CNN Feature Map is used to find or capture the output by applying some filters to sample input image for each layer.
+
+7. Activation Function: &nbsp;&nbsp; Activation functions are equations that decide the output of a neural network. The function is attached to each neuron in the network.
+
+8. Receptive Field:&nbsp;&nbsp;  The receptive field in CNN refers to the area of the input space that affects a specific unit of the network.
