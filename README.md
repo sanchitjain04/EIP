@@ -4,7 +4,8 @@ Result of Print(Score) = 0.9931
 
 Definations for the following:
 
-1. Convolution
+1. Convolution: Convolution in context with Convolutional Neural Network refers to 
+
 2. Filters/Kernels
 3. Epochs
 4. 1x1 Convolution
