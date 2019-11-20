@@ -85,3 +85,12 @@ Epoch 20/20
 Epoch 00020: LearningRateScheduler setting learning rate to 0.000283246.
 60000/60000 [==============================] - 22s 364us/step - loss: 0.0868 - acc: 0.9577 - val_loss: 0.0207 - val_acc: 0.9953
 <keras.callbacks.History at 0x7febcf5397b8>
+
+
+
+# result of model.evaluate:
+[0.020677942662581335, 0.9953]
+
+
+## Strategy:
+Kept the first 2 conv size as 16, learning rate as 0.2 and batch size as 64
