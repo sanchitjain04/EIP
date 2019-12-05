@@ -1,3 +1,5 @@
+# final Validation Accuracy = 91
+
 # Logs for epochs
 
 Using real-time data augmentation.
@@ -363,4 +365,4 @@ Test loss: 0.49138009028434754
 Test accuracy: 0.8958
 
 
-# final Validation Accuracy = 91
+
