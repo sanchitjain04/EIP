@@ -4,13 +4,13 @@ In this i tried experimenting many things in a ways to achieve good accuracy, wa
 
 Studied few of the solutions for various other techniques to improve accuracy for image classification also people sharing on the group as well how they implemented and achieved excellent accuracies but i understood a little less and hence did not try to do experimentation with that as understanding is also the key apart from achieving higher accuracies as per me. hence including the results i obtained after 70 epochs as the accuracy became constant:
 
-val_gender_output_acc: 0.6381 
-val_image_quality_output_acc: 0.5328 
-val_age_output_acc: 0.4012 
-val_weight_output_acc: 0.6164 
-val_bag_output_acc: 0.5665 
-val_footwear_output_acc: 0.6159 
-val_pose_output_acc: 0.6109 
+val_gender_output_acc: 0.6381 <br/>
+val_image_quality_output_acc: 0.5328 <br/>
+val_age_output_acc: 0.4012 <br/>
+val_weight_output_acc: 0.6164 <br/>
+val_bag_output_acc: 0.5665 <br/>
+val_footwear_output_acc: 0.6159 <br/>
+val_pose_output_acc: 0.6109 <br/>
 val_emotion_output_acc: 0.7092
 
 
